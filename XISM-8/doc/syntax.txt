@@ -1,3 +1,0 @@
-How to define labels:
-LABEL labelname:
-[insert content /instructions here]
